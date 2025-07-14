@@ -12,7 +12,9 @@ export default function Main() {
           <div>Luminae</div>
           <LogoIcon />
         </div>
-        <CardIcon />
+        <div>
+          <CardIcon />
+        </div>
       </div>
     </div>
   );

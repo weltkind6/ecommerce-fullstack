@@ -14,6 +14,7 @@ export default function Main() {
         </div>
         <div>
           <CardIcon />
+          <div className="rounded-[50%] w-6 h-6 bg-[#3DC47E] grid place-items-center">3</div>
         </div>
       </div>
     </div>
